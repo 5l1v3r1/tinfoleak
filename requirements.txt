@@ -1,0 +1,6 @@
+exifread
+jinja2
+oauth2
+pillow
+tweepy
+virtualenv
